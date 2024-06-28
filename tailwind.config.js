@@ -11,7 +11,7 @@ export default {
         "mini-desktop": "950px",
         desktop: "1024px",
         d: "1024px", /* Alias for desktop  */
-        nd: {max: "1024px"}, /* max-width desktop  */
+        nd: { max: "1024px" }, /* max-width desktop  */
         lg: "1024px",
         xl: "1280px",
         "2xl": "1536px"
